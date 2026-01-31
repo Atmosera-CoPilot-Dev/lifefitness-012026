@@ -1,0 +1,11 @@
+# Ignore PowerPoint files
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+*.pot
+*.potx
+
+# add .vs and .vscode folders
+.vs/    
+.vscode/

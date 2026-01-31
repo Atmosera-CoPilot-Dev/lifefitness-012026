@@ -1,0 +1,12 @@
+[
+  { "student": "Alice",   "score": 86 },
+  { "student": "Bob",     "score": 83 },
+  { "student": "Charlie", "score": 88 },
+  { "student": "Diana",   "score": 84 },
+  { "student": "Ethan",   "score": 90 },
+  { "student": "Fiona",   "score": 79 },
+  { "student": "George",  "score": 85 },
+  { "student": "Hannah",  "score": 92 },
+  { "student": "Ian",     "score": 77 },
+  { "student": "Julia",   "score": 89 }
+]
